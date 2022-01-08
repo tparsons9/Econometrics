@@ -48,8 +48,6 @@ All references are included at the end of this ReadMe file. (Papers are not prop
   - Chernozhukov: L2. Structural Equation Models and IV
   - Chernozhukov: L3. Structural Equation Models and GMM
 * **Papers** 
-  - Card, David E., and Alan B. Krueger. Myth and Measurement: The New Economics of the Minimum Wage. Princeton, NJ: Princeton University Press, 1995, chapters 1 to 4. ISBN: 9780691048239.
-  - Angrist, J., and V. Lavy. "Using Maimonides Rule to estimate the Effects of Class Size on Scholastic Achievement." Quarterly Journal of Economics 114, no. 2 (May 1999): 533-575.
   - Hansen, Hausman and Newey (2008): “Estimation with Many Instrumental Variables,”
 Journal of Business and Economic Statistics.
   -Hahn and Hausman (2003), “IV Estimation with Valid and Invalid Instruments,”
