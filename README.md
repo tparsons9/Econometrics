@@ -9,7 +9,7 @@ As my research aims take a marketing focus, I have also included selected readin
 
 Finally, I will include my interpretations of the assignments with the provided data from Angrist/Chernozhukov. Since assignment answers are not provided, I make no claim to the veracity of the results. 
 
-As I iterate through this "course," I will find things that may not fit, or doesn't match the flow of learning that I am trying to achieve. This is afterall a mixture of individual ideas on the best approach to learning econometric methods, and I'm sure I'll find ways along the way to make the course more cohesive and complete. I ask that you bear with me (is there anybody there?) as I work through this process. Thanks, and happy learning!
+As I iterate through this "course," I will find things that may not fit, or doesn't match the flow of learning that I am trying to achieve. This is afterall a mixture of individual ideas on the best approach to learning econometric methods, and I'm sure I'll find ways along the way to make the course more cohesive and complete. I ask that you bear with me (is there anybody there?) as I work through this process. As for where I'm turning my attention after completion, I'll be auditing Grant McDermott's fantastic course [Environmental Economics and Data Science (EC607)](https://github.com/uo-ec607), hosted on GitHub. Thanks, and happy learning!
 
 All references are included at the end of this ReadMe file. (Papers are not properly cited in Outline-- they were copied from various sources). PDF's will be in their respective topic folders, along with problem sets and data. My attempt at the problem sets will be in a separate branch. 
 
