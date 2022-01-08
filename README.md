@@ -87,25 +87,6 @@ mimeo
 * **Assignments** 
   -  None
 
-### Simultaneous Equations and Applied Models
-* **Text** 
-  - Wooldridge: 16
-* **Lecture Notes** 
-  - Chernozhukov: L7. Distribution Regression and Counterfactual Analysis
-* **Papers** 
-  - Angrist, J., G. Imbens, and K. Graddy. "The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish." Review of Economic Studies 67, no. 3 (July 2000): 499-527.
-  - Hausman, Hall, and Griliches (1984): “Econometric Models for Count Data with an
-Application to the Patents-R & D Relationship,” Econometrica. 
-  - Han and Hausman (1990): “Flexible Parametric Estimation of Duration and Competing
-Risk Models,” Journal of Applied Econometrics
-  - McFadden and Train (2000): “Mixed MNL Models for Discrete Response,” Journal of
-Applied Econometrics
-  - Train (2003): “Discrete Choice Methods with Simulation,”
-  - Burda, Harding and Hausman (2008): “A Bayesian Mixed Logit-Probit Model for Multinomial Choice,” Journal of Econometrics.
-* **Assignments** 
-  -  Homework 6
-  -  (2007 14.32) Problem Set VI
-
 
 ### Heteroskedasticity, Time Series, and Serial Correlation
 * **Text** 
@@ -119,7 +100,24 @@ Applied Econometrics
 * **Assignments** 
   -  (2007 14.32) Problem Set V
  
-
+### Simultaneous Equations and Applied Models
+* **Text** 
+  - Wooldridge: 16
+* **Lecture Notes** 
+  - Chernozhukov: L7. Distribution Regression and Counterfactual Analysis
+* **Papers** 
+  - Angrist, J., G. Imbens, and K. Graddy. "The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish." Review of Economic Studies 67, no. 3 (July 2000): 499-527.
+  - Hausman, Hall, and Griliches (1984): “Econometric Models for Count Data with an
+Application to the Patents-R & D Relationship,” Econometrica. 
+  - Han and Hausman (1990): “Flexible Parametric Estimation of Duration and Competing
+Risk Models,” Journal of Applied Econometrics
+  - McFadden and Train (2000): “Mixed MNL Models for Discrete Response,” Journal of
+Applied Econometrics
+  - [Train (2003): “Discrete Choice Methods with Simulation”](https://eml.berkeley.edu/books/choice2.html)
+  - Burda, Harding and Hausman (2008): “A Bayesian Mixed Logit-Probit Model for Multinomial Choice,” Journal of Econometrics.
+* **Assignments** 
+  -  Homework 6
+  -  (2007 14.32) Problem Set VI
 
 ## Other Useful Sources: 
 * [EC508 Notes & Review](https://alex-hoagland.github.io/teaching/2019-ec508)
@@ -142,5 +140,14 @@ Applied Econometrics
 
 ### Papers
 
-**Will be transferred from reference manager once I complete the materials ** 
+- Chay, Kenneth Y., and James L. Powell. “Semiparametric Censored Regression Models.” Journal of Economic Perspectives 15, no. 4 (December 2001): 29–42. https://doi.org/10.1257/jep.15.4.29.
+- Graddy, Kathryn. “Testing for Imperfect Competition at the Fulton Fish Market.” The RAND Journal of Economics 26, no. 1 (1995): 75. https://doi.org/10.2307/2556036.
+- Griliches, Zvi, and Jerry A. Hausman. “Errors in Variables in Panel Data.” Journal of Econometrics 31, no. 1 (February 1, 1986): 93–118. https://doi.org/10.1016/0304-4076(86)90058-8.
+- Han, Aaron, and Jerry A. Hausman. “Flexible Parametric Estimation of Duration and Competing Risk Models.” Journal of Applied Econometrics 5, no. 1 (1990): 1–28.
+- Hansen, Christian, Jerry Hausman, and Whitney Newey. “Estimation With Many Instrumental Variables.” Journal of Business & Economic Statistics 26, no. 4 (October 1, 2008): 398–422. https://doi.org/10.1198/073500108000000024.
+- Hausman, Jerry A., and William E. Taylor. “Panel Data and Unobservable Individual Effects.” Econometrica 49, no. 6 (November 1981): 1377. https://doi.org/10.2307/1911406.
+- Hausman, Jerry, Bronwyn H. Hall, and Zvi Griliches. “Econometric Models for Count Data with an Application to the Patents-R & D Relationship.” Econometrica 52, no. 4 (1984): 909–38. https://doi.org/10.2307/1911191.
+- Imbens, Guido, Joshua Angrist, and Kathryn Graddy. “The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish.” Review of Economic Studies 67, July (2000): 499–527.
+- Moorthy, K. Sridhar. “Theoretical Modeling in Marketing.” Journal of Marketing 57, no. 2 (April 1993): 92. https://doi.org/10.2307/1252029.
+
 
