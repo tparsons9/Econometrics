@@ -1,7 +1,7 @@
 # Econometrics
 Collection of Econometrics texts and syllabi, along with attempted problem sets. 
 The following is a curated reading list taken from various courses syllabi (GWU PPPA 6022, MIT 14.32 (2007), MIT 14.36(2013), and BU EC508-A1 (2021)). 
-Problem sets and lecture notes are borrowed from MIT 14.32 (2017)
+Problem sets and lecture notes are borrowed from MIT 14.382 (2017)
 
 -- **Note:** This is my personal attempt folder for learning econometric methods. All credit goes to Prof(s): Angrist, Hausman, Smith, Forneron, and Chernozhukov for their contributions to course materials. This is merely a collection of materials meant to better my own learning. This repository is public to allow other interested learners an outline combining various texts and levels of difficulty. My general understanding may change, but I have included texts from Wooldridge (Undergraduate - Foundations of Econometrics), Angrist & Pischke (Graduate - Advanced Econometrics), and Hayashi (Graduate/PhD - Theoretical Supplement). I have also included selected papers taken from the referenced syllabi to serve as supplements to the reading material. 
 
@@ -24,7 +24,7 @@ All references are included at the end of this ReadMe file. (Papers are not prop
   - Zsohar, Peter. (2012). Short Introduction to the Generalized Method of Moments. Statisztikai szemle: a Magyar Központi      Statisztikai Hivatal folyóirata. 90. 150-170. 
   - Burtless, Gary. "Are Targeted Wage Subsidies Harmful? Evidence from a Wage Voucher Experiment." Industrial and Labor Relations Review 39 (October 1985): 105-111.
 * **Assignments** 
-  -  (2007 14.32) -- Review Problem Set & Problem Set 1  
+  -  14.32 -- Review Problem Set & Problem Set 1  
   
 ### Simple Linear Regression
 * **Text**
@@ -37,7 +37,7 @@ All references are included at the end of this ReadMe file. (Papers are not prop
   - None
 * **Assignments** 
   -  Homework 1 (All assignments are from 2017 MITOCW 14.32, unless stated otherwise) 
-  -  (2007 14.32) -- Problem Set II
+  -  14.32 -- Problem Set II
 
 ### Multivariate Regression, Variability, and Instrumental Variables
 * **Text** 
@@ -55,7 +55,7 @@ mimeo
   - Moorthy, K.S. 1993. "Theoretical Modeling in Marketing." Journal of Marketing, 57 (April): 92- 106. **+**
   - Shmueli, G. 2010. “To Explain or To Predict?” Statistical Science, 25 (3): 289-310. **+**
 * **Assignments** 
-  -  (2007 14.32) -- Problem Set III-IV 
+  -  14.32 -- Problem Set III-IV 
   -  Homework 2 and 3
 
 
@@ -98,7 +98,7 @@ mimeo
 * **Papers** 
   - Graddy, K. 1995. "Testing for Imperfect Competition at the Fulton Fish Market." RAND Journal of Economics 26, no. 1: 75-92.
 * **Assignments** 
-  -  (2007 14.32) Problem Set V
+  -  14.32 Problem Set V
  
 ### Simultaneous Equations and Applied Models
 * **Text** 
@@ -117,7 +117,7 @@ Applied Econometrics
   - Burda, Harding and Hausman (2008): “A Bayesian Mixed Logit-Probit Model for Multinomial Choice,” Journal of Econometrics.
 * **Assignments** 
   -  Homework 6
-  -  (2007 14.32) Problem Set VI
+  -  14.32 Problem Set VI
 
 ## Other Useful Sources: 
 * [EC508 Notes & Review](https://alex-hoagland.github.io/teaching/2019-ec508)
