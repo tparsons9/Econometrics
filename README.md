@@ -83,7 +83,11 @@ mimeo
   - Chernozhukov: L10. Nonlinear Panel Data 
 * **Papers** 
   - Hausman, J., and W. Taylor. 1981. "Panel Data and Unobservable Individual Effects." Econometrica, 49(6): 1377-1398. 
-  - Griliches, Z., and J. Hausman. 1986. "Errors in Variables in Panel Data." Journal of Econometrics, 31: 93-118. 
+  - Griliches, Z., and J. Hausman. 1986. "Errors in Variables in Panel Data." Journal of Econometrics, 31: 93-118.
+  - Edelman, Benjamin. 2012. “Using Internet data for economic research.” Journal of Economic Perspectives, 26: 189-206.
+  - Einav, Liran, and Jonathan Levin. 2013. “The Data Revolution and Economic Analysis.” NBER Working Paper #19035. 
+  - Lambrecht, Anja, and Catherine Tucker. 2018. “Field Experiments in Marketing.” In Handbook of Marketing Analytics. Eds Natalie Mizik and Dominique Hanssens.**+** 
+  - Reiss, Peter C. 2011. “Descriptive, Structural, and Experimental Empirical Methods in Marketing Research.” Marketing Science, 30 (6): 950-964.**+**
 * **Assignments** 
   -  None
 
